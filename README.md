@@ -6,5 +6,5 @@ There are various repositories here at NixImagery, and other sites containing co
 
 Feel free to ask me about anything I'm doing, and please do get in touch if we may have something of use to share.
 
-**Nick Hood** FInstP, SFHEA  
+**Nick Hood** SFHEA, FRAeS, CPhys, FInstP  
 Rosyth/Edinburgh
