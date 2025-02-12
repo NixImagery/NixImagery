@@ -1,6 +1,6 @@
 ## NixImagery
 
-I am a Doctoral researcher at Moray House. A former professional developer, latterly physics and mathematics teacher, and lecturer, I am a Fellow of the IoP and a Senior Fellow HEA.
+I am a Doctoral researcher at Moray House. A former professional developer, latterly physics and mathematics teacher, and lecturer, I am a Fellow of the RAeS and the IoP, and a Senior Fellow HEA.
 
 There are various repositories here at NixImagery, and other sites containing content I have produced and am continuing to work on.
 
